@@ -185,6 +185,14 @@ The conservative interpretation is a reproducible residual-disturbance associati
 
 The physical interpretation is not that one projection-motivated score is uniquely selected. Larger C-class scatter may mark non-equilibrium structure, non-circular motions, lopsided gas kinematics, warps, or interaction-driven asymmetries. Such systems are harder for any smooth axisymmetric rotation-curve prescription to describe. The C>A residual scatter is therefore best read as disturbance-sensitive residual phenomenology, not model-specific proof.
 
+The later Tau Core full-4D descent does not alter any statistic reported here. It only widens the possible upstream interpretation of a terminal residual: body structure, lapse, shift, spatial geometry, source-observer photon transfer, and ordinary astrophysical or observational effects may contribute. Because no nonzero radial Tau coframe law has been derived or frozen, this audit does not identify any of those origins and must not be retrospectively rescored with a fitted 4D correction. The exact later scoring compiler strengthens this prohibition: a mixed parent Hessian is not itself a signal, and the scoreable source object would be
+
+$$
+E_K=(K_{HH}-K_{\rm std})-CK_{VV}^{-1}C^\dagger.
+$$
+
+No such source-frozen standard excess or joint terminal prediction is present here.
+
 ## 10. Limitations
 
 Residual distance and radius imbalance remains the main methodological limitation. Controls mitigate the risk, but raw A/C distance and radius distributions are still not exchangeable. Closer galaxies may reveal disturbances and rotation-curve substructure more readily. Strict caliper tests are positive but have limited support, and HECATE mass controls are incomplete. This remains an important caveat even though the matched and stratified controls preserve the sign of the effect.

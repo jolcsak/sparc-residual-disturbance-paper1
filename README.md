@@ -28,6 +28,12 @@ https://github.com/tau-core-research/tau-core-theory
 
 This Paper 1 repository is a standalone reproducibility package. It does not require accepting the Tau Core theory hub; the manuscript should be read as a residual-blind SPARC residual-disturbance audit.
 
+The later observer-specific full-4D Tau descent changes neither the frozen
+endpoint nor any reported statistic. It expands only the list of possible
+upstream explanations of a terminal residual. No nonzero radial Tau coframe is
+derived here, so the existing packet is not retrospectively reinterpreted or
+rescored as a 4D-distortion detection.
+
 ## Main Files
 
 ```text
@@ -59,6 +65,13 @@ studies/sparc_residual_coherence_test_v01/coherence_labels_v06_distance_balanced
 ```
 
 The repository includes derived residual, control, and labeling artifacts. Raw SPARC rotmod files and SPARC Table1 metadata are not redistributed here; they can be downloaded into the expected local paths with the script below.
+
+## Full-4D Score Boundary
+
+The later compiler requires the source-frozen standard excess
+`E_K = (K_HH - K_std) - C K_VV^-1 C^dagger`. Paper 1 does not reconstruct
+this object, so none of its frozen SPARC statistics changes or becomes a
+physical Tau score.
 
 ## Reproduce The Packet
 
